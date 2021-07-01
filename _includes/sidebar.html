@@ -2,14 +2,6 @@
   <a href="/" aria-label="Avatar">
     <img src="/images/avarta.png" height="64" width="64" class="avatar" />
   </a>
-
-  <section class="name">
-    <a href="/">
-      <span id="fname">{{ site.name|split:' '|first }}</span>
-      <span id="lname">{{ site.name|split:' '|last }}</span>
-    </a>
-  </section>
-
   <section class="meta">
     <a href="{{ site.github.owner_url }}" target="_blank" title="Follow me on GitHub" aria-label="Follow me on GitHub"><i class="fa fa-github"></i></a>
     <a href="https://twitter.com/{{ site.twitter }}" target="_blank" title="Follow me on Twitter" aria-label="Follow me on Twitter"><i class="fa fa-twitter"></i></a>
@@ -18,8 +10,8 @@
 
   <section class="sections">
     <ul>
-      <li><i class="fa fa-list"><a href="/about.html">about</a></i></li>
-      <li><i class="fa fa-user"><a href="/">posts</a></i></li>
+      <li><a href="/about.html">about</a></li>
+      <li><a href="/">posts</a></li>
     </ul>
   </section>
 </section>
