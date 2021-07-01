@@ -5,7 +5,7 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name:
+name: @Caoanchay
 url: http://caoanchay.com
 description: Đơn giản chỉ là ghi và chép.
 github: none
