@@ -5,6 +5,7 @@ category: posts
 ---
 
 Thành công chỉ là vấn đề kiên trì theo đuổi một vài nguyên lý phổ biến mà bất kỳ ai cũng có thể làm chủ được. Dưới đây là 32 nguyên lý giúp bạn đứng đầu một lĩnh vực, bất kỳ lĩnh vực nào mà bạn chọn.
+
 1. Một từ kì diệu.
 “Thái độ” là một từ kì diệu. Bạn là người chịu trách nhiệm cho cuộc sống của bạn và thái độ của bạn quyết định cuộc sống đó sẽ tốt đẹp hay tồi tệ hơn. Mỗi chúng ta tạo lập cuộc sống của mình phần lớn là bằng thái độ của chúng ta. Tất cả chúng ta đều muốn có những hệ quả tốt đẹp. Và một thái độ tốt là điều đảm bảo chắc chắn nhất cho mong muốn đó. Thái độ được định nghĩa như là phương hướng của hành động, cảm xúc hay tâm trạng. Và chính hành động, cảm xúc hay tâm trạng của chúng ta sẽ quyết định hành động, cảm xúc hay tâm trạng cũng những người xung quanh. Bạn có thể điều khiển thái độ của bạn. Hầu hết mọi người khởi đầu bằng sự trung lập. Họ chỉ đơn giản phản ứng lại những gì mà họ được đối xử. Những người này là môi trường sống của chúng ta. Đó là lý do tại sao việc điều khiển thái độ của chúng ta là rất quan trọng.
 2. Lòng biết ơn và sự hi vọng là những thái độ tốt nhất. Đừng bảo vệ cho thái độ ngờ vực về bản thân mình hay những người khác. Đừng có thái độ chờ đợi mọi người phải đối xử tốt với bạn – hãy đối xử tốt với họ trước. Đừng ngồi trước một cái lò trống không để chờ nó nóng lên. Hãy cho nhiên liệu vào đó. Hãy hành động trước. Hành động phải được bắt đầu từ một nơi nào đó. Và bạn hãy là người đầu tiên thực hiện.
