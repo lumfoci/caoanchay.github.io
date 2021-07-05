@@ -15,10 +15,11 @@ a {
 
 .sidebar {
   position: fixed;
-  left: 15px;
-  top: 15px;
-  width: 80px;
+  left: 60px;
+  top: 60px;
+  width: 170px;
   font-family: "Times New Roman", Palatino Linotype, Helvetica, sans-serif;
+  border-right: 1px solid #eee;
   a {
     text-decoration: none;
   }
