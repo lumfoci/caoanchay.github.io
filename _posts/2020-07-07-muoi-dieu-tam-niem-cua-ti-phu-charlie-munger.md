@@ -15,9 +15,7 @@ Do ông tốt nghiệp ngành luật và không hề biết gì về kinh tế, 
 
 **3. Ba quy tắc lập nghiệp**
 
-“Một là: Đừng bán bất kỳ thứ gì mà chính bạn không có ý định mua
-Hai là: Đừng làm việc cho người mà bạn không tôn trọng và ngưỡng mộ
-Ba là: Hãy làm việc với những người khiến bạn thực sự thấy thích thú”
+“Một là: Đừng bán bất kỳ thứ gì mà chính bạn không có ý định mua. Hai là: Đừng làm việc cho người mà bạn không tôn trọng và ngưỡng mộ. Ba là: Hãy làm việc với những người khiến bạn thực sự thấy thích thú”
 
 **4.“Biết được bản thân mình còn cần phải học hỏi điều gì quan trọng hơn là thông minh”**
 
