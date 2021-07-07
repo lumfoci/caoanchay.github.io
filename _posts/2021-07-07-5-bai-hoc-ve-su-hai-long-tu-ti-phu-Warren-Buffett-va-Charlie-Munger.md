@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: 5 bài học về sự hài lòng tử tỉ phú Warren Buffet và Charlie Munger.
+category: posts
 ---
-## 5 bài học về sự hài lòng tư tỉ phú Warren Buffett và Charlie Munger.
 
 **“Hãy tìm những thứ làm bạn thấy hứng thú.”**: Warren nói câu này để trả lời cho câu hỏi rằng liệu ông sẽ khuyên chính mình 50 năm trước những gì. Và việc tìm kiếm và làm theo đam mê chính là thứ duy nhất ông muốn chính ông làm thời trai trẻ – và đó là thứ vô cùng quan trọng trên con đường tìm kiếm hạnh phúc. Nếu bạn làm thứ khiến bạn say mê, bạn sẽ đi rất xa trên con đường ấy.
 **Đừng lo về việc người khác đang làm:** Charlie, một con người cực kì khôn ngoan, đã nói rằng một trong những lợi thế lớn nhất của Berkshire Hathaway chính là Warren và Charlie không phải lo lắng về những gì những người khác đang làm trong thế giới đầu tư tài chính. Có quá nhiều người đã bị kẹt do luôn quan sát và bị ảnh hưởng bởi những thứ người khác đang theo đuổi, từ đó đánh mất định hướng của chính mình. Thay vì đó, tốt hơn là ta nên tìm ra những nguyên lí của chính mình, và sau đó thực hiện chúng. Chúng ta không cần phải quan sát hay so sánh việc của chính mình với người khác.
