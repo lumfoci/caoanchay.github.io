@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 bài học về sự hài lòng tử tỉ phú Warren Buffet và Charlie Munger.
+title: 5 bài học về sự hài lòng từ tỉ phú Warren Buffet và Charlie Munger.
 category: posts
 ---
 
