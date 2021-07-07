@@ -10,3 +10,9 @@ url: http://caoanchay.com
 description: Đơn giản chỉ là ghi và chép.
 github: none
 gravatar_url: none
+
+
+paginate: 1
+paginate_path: "/page:num/"
+plugins:
+ - jekyll-paginate
