@@ -12,7 +12,7 @@ github: none
 gravatar_url: none
 
 
-paginate: 1
-paginate_path: "/page:num/"
 plugins:
- - jekyll-paginate
+  - jekyll-paginate
+paginate: 1
+paginate_path: /page-:num
