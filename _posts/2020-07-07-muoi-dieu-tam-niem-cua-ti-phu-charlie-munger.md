@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Mười điều tâm niệm của tỉ phú Charlie Munger.
+category: posts
 ---
 **1. “Tham vọng làm giàu nhanh ẩn chứa khá nhiều nguy hiểm”**
 
