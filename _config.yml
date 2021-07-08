@@ -14,5 +14,5 @@ gravatar_url: none
 
 plugins:
   - jekyll-paginate
-paginate: 8
+paginate: 1
 paginate_path: /page-:num
