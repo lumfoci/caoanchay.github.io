@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Những câu nói kinh điển của sói già phố Wall.
+category: posts
 ---
 1. Nếu bạn muốn giàu có, bạn không bao giờ được bỏ cuộc. Mọi người có xu hướng bỏ cuộc. Nếu bạn có sự kiên trì, bạn sẽ vượt lên trên những người khác. Quan trọng hơn, bạn sẽ học hỏi được nhiều điều. Khi bạn làm điều gì đó, bạn có thể thất bại. Nhưng đó không có nghĩa bạn là người thất bại. Đó là vì bạn chưa học đủ. Làm điều đó một cách khác nhau mỗi lần. Một ngày, bạn sẽ làm điều đó đúng. Thất bại là một người bạn.
 
