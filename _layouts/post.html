@@ -6,6 +6,13 @@ layout: layout
   <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
   {{ content }}
   
+  <span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+  
   <div class="relatedPosts">
 
   <h3>Related post</h3>
