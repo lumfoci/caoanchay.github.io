@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hai mươi quy luật bất biến của J.Livermore.
-category: posts
+tags: trading
 ---
 
 1- Không có gì mới xuất hiện trong hoạt động đầu cơ hay đầu tư vào chứng khoán và thị trường hàng hóa.
