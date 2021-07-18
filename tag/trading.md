@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: tagpage
 title: "Tag: Trading"
 tag: trading
 ---
