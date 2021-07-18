@@ -6,7 +6,7 @@ rdiscount:
   extensions: [smart]
 
 name: Cáo ăn chay
-url: http://caoanchay.com
+url: https://caoanchay.com
 description: Đơn giản chỉ là ghi và chép.
 github: none
 gravatar_url: none
